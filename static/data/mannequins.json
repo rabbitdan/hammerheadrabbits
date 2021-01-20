@@ -1,0 +1,171 @@
+{
+  "name": "Mannequins",
+  "slug": "mannequins",
+  "type": "photography",
+  "id": 19,
+  "description": "Aspirationalism made plastic looking outward.",
+  "images": [
+    {
+      "url": "mannequins-abigail",
+      "title": "Abigail",
+      "alt": "Abigail",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-amira",
+      "title": "Amira",
+      "alt": "Amira",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-autumn",
+      "title": "Autumn",
+      "alt": "Autumn",
+      "lg": "934",
+      "med": "701",
+      "sm": "468",
+      "tn": "236"
+    },
+    {
+      "url": "mannequins-ciara",
+      "title": "Ciara",
+      "alt": "Ciara",
+      "lg": "1026",
+      "med": "771",
+      "sm": "514",
+      "tn": "256"
+    },
+    {
+      "url": "mannequins-eric",
+      "title": "Eric",
+      "alt": "Eric",
+      "lg": "968",
+      "med": "727",
+      "sm": "484",
+      "tn": "244"
+    },
+    {
+      "url": "mannequins-hadley",
+      "title": "Hadley",
+      "alt": "Hadley",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-isabelle",
+      "title": "Isabelle",
+      "alt": "Isabelle",
+      "lg": "1126",
+      "med": "845",
+      "sm": "564",
+      "tn": "284"
+    },
+    {
+      "url": "mannequins-kathleen",
+      "title": "Kathleen",
+      "alt": "Kathleen",
+      "lg": "894",
+      "med": "671",
+      "sm": "448",
+      "tn": "224"
+    },
+    {
+      "url": "mannequins-keira",
+      "title": "Keira",
+      "alt": "Keira",
+      "lg": "1419",
+      "med": "1065",
+      "sm": "710",
+      "tn": "356"
+    },
+    {
+      "url": "mannequins-kristin",
+      "title": "Kristin",
+      "alt": "Kristin",
+      "lg": "1353",
+      "med": "1015",
+      "sm": "678",
+      "tn": "341"
+    },
+    {
+      "url": "mannequins-lexi",
+      "title": "Lexi",
+      "alt": "Lexi",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-malva",
+      "title": "Malva",
+      "alt": "Malva",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-mina",
+      "title": "Mina",
+      "alt": "Mina",
+      "lg": "1494",
+      "med": "1121",
+      "sm": "748",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-nola",
+      "title": "Nola",
+      "alt": "Nola",
+      "lg": "821",
+      "med": "616",
+      "sm": "412",
+      "tn": "205"
+    },
+    {
+      "url": "mannequins-penelope",
+      "title": "Penelope",
+      "alt": "Penelope",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-robert",
+      "title": "Robert",
+      "alt": "Robert",
+      "lg": "844",
+      "med": "634",
+      "sm": "422",
+      "tn": "212"
+    },
+    {
+      "url": "mannequins-stan",
+      "title": "Stan",
+      "alt": "Stan",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "mannequins-tessa",
+      "title": "Tessa",
+      "alt": "Tessa",
+      "lg": "1411",
+      "med": "1059",
+      "sm": "706",
+      "tn": "352"
+    }
+  ]
+}

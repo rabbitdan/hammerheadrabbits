@@ -1,0 +1,144 @@
+{
+  "name": "Serbia",
+  "slug": "serbia",
+  "type": "photography",
+  "id": 14,
+  "description": "Serbia, in spite of the stereotype, is a wonderful place with some very nice people.",
+  "images": [
+    {
+      "url": "photography/serbia/serbia-border",
+      "title": "Border",
+      "alt": "The Serbian / Romanian border",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-bus",
+      "title": "Bus",
+      "alt": "Bus",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-dog",
+      "title": "Dog",
+      "alt": "Dog",
+      "lg": "1280",
+      "med": "960",
+      "sm": "640",
+      "tn": "320"
+    },
+    {
+      "url": "photography/serbia/serbia-dunav",
+      "title": "Dunav",
+      "alt": "Dunav",
+      "lg": "1280",
+      "med": "960",
+      "sm": "640",
+      "tn": "320"
+    },
+    {
+      "url": "photography/serbia/serbia-dunav2",
+      "title": "Dunav",
+      "alt": "Dunav",
+      "lg": "1280",
+      "med": "960",
+      "sm": "640",
+      "tn": "320"
+    },
+    {
+      "url": "photography/serbia/serbia-elan",
+      "title": "Elan",
+      "alt": "Elan",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-field",
+      "title": "Field",
+      "alt": "Field",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-hall",
+      "title": "Hall",
+      "alt": "Hall - Bolevac",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-hillside",
+      "title": "Hillside",
+      "alt": "Hillside",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-houses",
+      "title": "Houses",
+      "alt": "Houses",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-krista",
+      "title": "Krista",
+      "alt": "Krista",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-road",
+      "title": "Road",
+      "alt": "Road",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-room",
+      "title": "Room",
+      "alt": "Room",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-van",
+      "title": "Van",
+      "alt": "Van",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/serbia/serbia-view",
+      "title": "View",
+      "alt": "View",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}

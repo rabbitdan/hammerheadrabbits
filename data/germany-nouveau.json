@@ -1,0 +1,153 @@
+{
+  "name": "Germany",
+  "slug": "germany",
+  "type": "photography",
+  "id": 6,
+  "description": "Germany is a nice country.",
+  "images": [
+    {
+      "url": "photography/germany/germany-bins",
+      "title": "Bins",
+      "alt": "Bins - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-corn",
+      "title": "Corn",
+      "alt": "Corn - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-dog",
+      "title": "Dog",
+      "alt": "Dog - Düsseldorf",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-field",
+      "title": "Field",
+      "alt": "Field - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-fields",
+      "title": "Fields",
+      "alt": "Fields - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-fields2",
+      "title": "Fields",
+      "alt": "Fields - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-forest",
+      "title": "Forest",
+      "alt": "Forest - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-horizon",
+      "title": "Horizon",
+      "alt": "Horizon - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-lake",
+      "title": "Lake",
+      "alt": "Lake - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-pathway",
+      "title": "Pathway",
+      "alt": "Pathway - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-post",
+      "title": "Post",
+      "alt": "Post - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-pylons",
+      "title": "Pylons",
+      "alt": "Pylons - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-runner",
+      "title": "Runner",
+      "alt": "Runner - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-trio",
+      "title": "Trio",
+      "alt": "Trio - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-walking",
+      "title": "Walking",
+      "alt": "Walking - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/germany/germany-wall",
+      "title": "Wall",
+      "alt": "Wall - Germany",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}

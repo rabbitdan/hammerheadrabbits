@@ -1,0 +1,342 @@
+{
+  "name": "Museums",
+  "slug": "museums",
+  "type": "photography",
+  "id": 20,
+  "description": "In every museum I visit I love looking at the layout and details of the place. There’s a bit at the end of the film Russian Ark that talks about the Hermitage being an ark of the Russian identity. The soul of the Russian people is there. I always find myself taking this thought with me to all the galleries I visit.",
+  "images": [
+    {
+      "url": "photography/museums/albertina-bench",
+      "title": "Bench",
+      "alt": "Bench",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/albertina-doorway",
+      "title": "Door",
+      "alt": "Door",
+      "lg": "1466",
+      "med": "1100",
+      "sm": "734",
+      "tn": "368"
+    },
+    {
+      "url": "photography/museums/albertina-lockers",
+      "title": "Lockers",
+      "alt": "Lockers",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/altepinakothek-corridor",
+      "title": "Corridor",
+      "alt": "Corridor",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/museums/altepinakothek-stairs",
+      "title": "Stairs",
+      "alt": "Stairs",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/museums/altepinakothek-ausgang",
+      "title": "Ausgang",
+      "alt": "Ausgang",
+      "lg": "1280",
+      "med": "960",
+      "sm": "640",
+      "tn": "320"
+    },
+    {
+      "url": "photography/museums/altepinakothek-panel",
+      "title": "Panel",
+      "alt": "Panel",
+      "lg": "876",
+      "med": "658",
+      "sm": "438",
+      "tn": "220"
+    },
+    {
+      "url": "photography/museums/altepinakothek-seat",
+      "title": "Seat",
+      "alt": "Seat",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/museums/cankarjevdom-rails",
+      "title": "Rails",
+      "alt": "Rails",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/cankarjevdom-staircase",
+      "title": "Staircase",
+      "alt": "Staircase",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/cankarjevdom-hallway",
+      "title": "Hallway",
+      "alt": "Hallway",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/cankarjevdom-hydrants",
+      "title": "Hydrants",
+      "alt": "Hydrants",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/dox-corridor",
+      "title": "Corridor",
+      "alt": "Corridor",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/dox-building",
+      "title": "Building",
+      "alt": "Building",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/dox-signs",
+      "title": "Signs",
+      "alt": "Signs",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/dox-table",
+      "title": "Table",
+      "alt": "Table",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/legionofhonor-bench",
+      "title": "Bench",
+      "alt": "Bench",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/legionofhonor-columns",
+      "title": "Columns",
+      "alt": "Columns",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/legionofhonor-corridor",
+      "title": "Corridor",
+      "alt": "Corridor",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/legionofhonor-doorway",
+      "title": "Doorway",
+      "alt": "Doorway",
+      "lg": "1175",
+      "med": "882",
+      "sm": "588",
+      "tn": "296"
+    },
+    {
+      "url": "photography/museums/legionofhonor-lights",
+      "title": "Lights",
+      "alt": "Lights",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/legionofhonor-stairway",
+      "title": "Stairway",
+      "alt": "Stairway",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/leopold-behind",
+      "title": "Behind the show",
+      "alt": "Behind the show",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/modernagalerijaljubljana-corner",
+      "title": "Corner",
+      "alt": "Corner",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/modernagalerijaljubljana-corridor",
+      "title": "Corridor",
+      "alt": "Corridor",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/mumok-chair",
+      "title": "Chair",
+      "alt": "Chair",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/muzeuldeartadintargujiu-curtains",
+      "title": "Curtains",
+      "alt": "Curtains",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/naturhistorischesmuseumwien-chairs",
+      "title": "Chairs",
+      "alt": "Chairs",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/naturhistorischesmuseumwien-corridor",
+      "title": "Corridor",
+      "alt": "Corridor",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/naturhistorischesmuseumwien-entrance",
+      "title": "Entrance",
+      "alt": "Entrance",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/naturhistorischesmuseumwien-room",
+      "title": "Room",
+      "alt": "Room",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/naturhistorischesmuseumwien-staircase",
+      "title": "Staircase",
+      "alt": "Staircase",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/museums/neuepinakothek-bench",
+      "title": "Bench",
+      "alt": "Bench",
+      "lg": "1280",
+      "med": "960",
+      "sm": "640",
+      "tn": "320"
+    },
+    {
+      "url": "photography/museums/neuepinakothek-headphones",
+      "title": "Headphones",
+      "alt": "Headphones",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/museums/pinakothekdermoderne-stairs",
+      "title": "Stairs",
+      "alt": "Stairs",
+      "lg": "1836",
+      "med": "1378",
+      "sm": "918",
+      "tn": "460"
+    },
+    {
+      "url": "photography/museums/sjofartsmuseetakvariet-building",
+      "title": "Building",
+      "alt": "Building",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "photography/museums/sjofartsmuseetakvariet-statues",
+      "title": "Statues",
+      "alt": "Statues",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}

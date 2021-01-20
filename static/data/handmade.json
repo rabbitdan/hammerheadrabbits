@@ -1,0 +1,153 @@
+{
+  "name": "Handmade",
+  "slug": "handmade",
+  "type": "sketchbook",
+  "id": 30,
+  "description": "Sometimes I draw things in books. Sometimes they are not things.",
+  "images": [
+    {
+      "url": "handmade-909990",
+      "title": "909990",
+      "alt": "909990",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-blossoms",
+      "title": "Blossoms",
+      "alt": "Blossoms",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-circles",
+      "title": "Circles",
+      "alt": "Circles",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-etcetera",
+      "title": "Etcetera",
+      "alt": "Etcetera",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-inward",
+      "title": "Inward",
+      "alt": "Inward",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-line-circle",
+      "title": "Blossoms",
+      "alt": "Blossoms",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-mountain-spots",
+      "title": "Spots / Mountain",
+      "alt": "Spots / Mountain",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-nothing",
+      "title": "Nothing",
+      "alt": "Nothing",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-onthis",
+      "title": "On this",
+      "alt": "On this",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-permission",
+      "title": "Permission",
+      "alt": "Permission",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-processes",
+      "title": "Processes",
+      "alt": "Processes",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-scribble",
+      "title": "Scribble",
+      "alt": "Scribble",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-sevenletters",
+      "title": "Seven Letters",
+      "alt": "Seven Letters",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-spirals",
+      "title": "Spirals",
+      "alt": "Spirals",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-things",
+      "title": "Things",
+      "alt": "Things",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "handmade-wave",
+      "title": "Wave",
+      "alt": "Wave",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}

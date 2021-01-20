@@ -1,0 +1,369 @@
+{
+  "name": "Wales",
+  "slug": "wales",
+  "type": "photography",
+  "id": 17,
+  "description": "Wales is a small country.",
+  "images": [
+    {
+      "url": "photography/wales/wales-afternoon",
+      "title": "Afternoon",
+      "alt": "Afternoon - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-brutalism",
+      "title": "Brutalism",
+      "alt": "Brutalism - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-cathedral",
+      "title": "Cathedral",
+      "alt": "Cathedral - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-cathedralinterior",
+      "title": "Cathedral Interior",
+      "alt": "Cathedral Interior - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-cathedralinterior2",
+      "title": "Cathedral Interior",
+      "alt": "Cathedral Interior - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-cathedralinterior3",
+      "title": "Cathedral Interior",
+      "alt": "Cathedral Interior - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-chairs",
+      "title": "Chairs",
+      "alt": "Chairs - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-crags",
+      "title": "Crags",
+      "alt": "Crags - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-cwmyrafon",
+      "title": "Cwm Yr Afon",
+      "alt": "Cwm Yr Afon - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-dryharbour2",
+      "title": "Dry harbour",
+      "alt": "Dry harbour - Fishguard",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-dryharbour3",
+      "title": "Dry harbour",
+      "alt": "Dry harbour - Fishguard",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-entrance",
+      "title": "Entrance",
+      "alt": "Entrance - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-fog",
+      "title": "Fog",
+      "alt": "Fog - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-hillside",
+      "title": "Hillside",
+      "alt": "Hillside - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-house",
+      "title": "House",
+      "alt": "House - Fishguard",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-lake",
+      "title": "Lake",
+      "alt": "Lake - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-lake2",
+      "title": "Lake",
+      "alt": "Lake - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-lake3",
+      "title": "Lake",
+      "alt": "Lake - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-lake5",
+      "title": "Lake",
+      "alt": "Lake - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-meetingroom",
+      "title": "Meeting Room",
+      "alt": "Meeting room - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-minerstrack",
+      "title": "Miners' Track",
+      "alt": "Miners' Track - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-minerstrack4",
+      "title": "Miners' Track",
+      "alt": "Miners' Track - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-pathway",
+      "title": "Pathway",
+      "alt": "Pathway  - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-pathway3",
+      "title": "Pathway",
+      "alt": "Pathway - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-puddle",
+      "title": "Puddle",
+      "alt": "Puddle - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-pygtrack",
+      "title": "Pyg track",
+      "alt": "Pyg track - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-pylons",
+      "title": "Pylons",
+      "alt": "Pylons - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-river",
+      "title": "River",
+      "alt": "River - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-river2",
+      "title": "River",
+      "alt": "River - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-road1",
+      "title": "Road",
+      "alt": "Road - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-road2",
+      "title": "Road",
+      "alt": "Road - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-road3",
+      "title": "Road",
+      "alt": "Road - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-road4",
+      "title": "Road",
+      "alt": "Road - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-road6",
+      "title": "Road",
+      "alt": "Road - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-sign",
+      "title": "Sign",
+      "alt": "Sign - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-snowdontrack",
+      "title": "Track",
+      "alt": "Track - Snowdonia",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-steps",
+      "title": "Steps",
+      "alt": "Steps - Snowdon",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-sunbeam",
+      "title": "Sunbeam",
+      "alt": "Sunbeam - St David's",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-tracks",
+      "title": "Tracks",
+      "alt": "Tracks - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "photography/wales/wales-widepuddle",
+      "title": "Puddle",
+      "alt": "Puddle - Harlech",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    }
+  ]
+}

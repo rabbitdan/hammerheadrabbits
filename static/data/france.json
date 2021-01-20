@@ -1,0 +1,54 @@
+{
+  "name": "France",
+  "slug": "france",
+  "type": "photography",
+  "id": 5,
+  "description": "France is a funny country.",
+  "images": [
+     {
+       "url": "france-apartments",
+       "title": "Apartments",
+       "alt": "Apartments - Dunkerque",
+       "lg": "1500",
+       "med": "1126",
+       "sm": "750",
+       "tn": "376"
+     },
+     {
+       "url": "france-evening",
+       "title": "Evening",
+       "alt": "Evening - France",
+       "lg": "1500",
+       "med": "1126",
+       "sm": "750",
+       "tn": "376"
+     },
+     {
+       "url": "france-moonfence",
+       "title": "Fence",
+       "alt": "The moon over a fance - Dunkerque",
+       "lg": "1500",
+       "med": "1126",
+       "sm": "750",
+       "tn": "376"
+     },
+     {
+       "url": "france-pavement",
+       "title": "Pavement",
+       "alt": "Pavement - Dunkerque",
+       "lg": "1500",
+       "med": "1126",
+       "sm": "750",
+       "tn": "376"
+     },
+     {
+       "url": "france-tothebeach",
+       "title": "Way to the beach",
+       "alt": "The way to the beach - Dunkerque",
+       "lg": "1500",
+       "med": "1126",
+       "sm": "750",
+       "tn": "376"
+     }
+  ]
+}

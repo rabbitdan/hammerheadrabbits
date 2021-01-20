@@ -1,0 +1,88 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_fb1b4e6a"
+  },
+  {
+    "name": "art",
+    "path": "/art",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/art.vue",
+    "chunkName": "pages/art",
+    "url": "/art",
+    "_name": "_60d96621"
+  },
+  {
+    "name": "development",
+    "path": "/development",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/development.vue",
+    "chunkName": "pages/development",
+    "url": "/development",
+    "_name": "_badb520e"
+  },
+  {
+    "name": "monsters",
+    "path": "/monsters",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/monsters.vue",
+    "chunkName": "pages/monsters",
+    "url": "/monsters",
+    "_name": "_5e39670b"
+  },
+  {
+    "name": "patternrecognition",
+    "path": "/patternrecognition",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/patternrecognition.vue",
+    "chunkName": "pages/patternrecognition",
+    "url": "/patternrecognition",
+    "_name": "_05847dd9"
+  },
+  {
+    "name": "photography",
+    "path": "/photography",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/photography/index.vue",
+    "chunkName": "pages/photography/index",
+    "url": "/photography",
+    "_name": "_074ceec4"
+  },
+  {
+    "name": "sketchbook",
+    "path": "/sketchbook",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/sketchbook/index.vue",
+    "chunkName": "pages/sketchbook/index",
+    "url": "/sketchbook",
+    "_name": "_2d11c6ec"
+  },
+  {
+    "name": "unpropaganda",
+    "path": "/unpropaganda",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/unpropaganda.vue",
+    "chunkName": "pages/unpropaganda",
+    "url": "/unpropaganda",
+    "_name": "_62fe8084"
+  },
+  {
+    "name": "photography-id",
+    "path": "/photography/:id",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/photography/_id/index.vue",
+    "chunkName": "pages/photography/_id/index",
+    "_name": "_23e12489"
+  },
+  {
+    "name": "sketchbook-id",
+    "path": "/sketchbook/:id",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/sketchbook/_id/index.vue",
+    "chunkName": "pages/sketchbook/_id/index",
+    "_name": "_5efae275"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/danielfone/sites/hammerheadrabbits/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_bbab98e0"
+  }
+]

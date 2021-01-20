@@ -1,0 +1,36 @@
+{
+  "name": "hammerheadrabbits",
+  "version": "1.0.0",
+  "description": "My website",
+  "author": "Daniel Fone",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.10.0",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "axios": "^0.21.0",
+    "gsap": "file:assets/gsap_nm/gsap-bonus.tgz",
+    "nuxt": "^2.13.3",
+    "v-lazy-image": "^1.4.0",
+    "vue": "latest",
+    "vue-carousel": "^0.18.0",
+    "vue-picture-element": "^1.1.1"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.13.3",
+    "@vue/test-utils": "^1.0.3",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "node-sass": "^4.14.1",
+    "responsive-loader": "^1.2.0",
+    "sass-loader": "^8.0.2",
+    "sharp": "^0.25.4",
+    "vue-jest": "^4.0.0-beta.4"
+  }
+}

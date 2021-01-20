@@ -1,0 +1,63 @@
+{
+  "name": "Walkways",
+  "slug": "walkways",
+  "type": "photography",
+  "id": 26,
+  "description": "There are parts of most towns that you can walk on.",
+  "images": [
+    {
+      "url": "walkways-alley",
+      "title": "Alley",
+      "alt": "Alley",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "walkways-cankarjevacesta",
+      "title": "Cankarjeva Cesta",
+      "alt": "Cankarjeva Cesta",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "walkways-gornjitrg",
+      "title": "Gornji Trg",
+      "alt": "Gornji Trg",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "walkways-reddingpath",
+      "title": "Redding",
+      "alt": "Redding California",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "walkways-slovenskacesta",
+      "title": "Slovenska Cesta",
+      "alt": "Slovenska Cesta",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    },
+    {
+      "url": "walkways-slovenskacesta2",
+      "title": "Slovenska Cesta",
+      "alt": "Slovenska Cesta",
+      "lg": "2000",
+      "med": "1500",
+      "sm": "1000",
+      "tn": "500"
+    }
+  ]
+}

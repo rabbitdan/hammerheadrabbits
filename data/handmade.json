@@ -1,0 +1,153 @@
+{
+  "name": "Handmade",
+  "slug": "handmade",
+  "type": "sketchbook",
+  "id": 30,
+  "description": "Sometimes I draw things in books. Sometimes they are not things.",
+  "images": [
+    {
+      "url": "sketchbook/handmade/handmade-909990",
+      "title": "909990",
+      "alt": "909990",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-blossoms",
+      "title": "Blossoms",
+      "alt": "Blossoms",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-circles",
+      "title": "Circles",
+      "alt": "Circles",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-etcetera",
+      "title": "Etcetera",
+      "alt": "Etcetera",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-inward",
+      "title": "Inward",
+      "alt": "Inward",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-line-circle",
+      "title": "Blossoms",
+      "alt": "Blossoms",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-mountain-spots",
+      "title": "Spots / Mountain",
+      "alt": "Spots / Mountain",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-nothing",
+      "title": "Nothing",
+      "alt": "Nothing",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-onthis",
+      "title": "On this",
+      "alt": "On this",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-permission",
+      "title": "Permission",
+      "alt": "Permission",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-processes",
+      "title": "Processes",
+      "alt": "Processes",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-scribble",
+      "title": "Scribble",
+      "alt": "Scribble",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-sevenletters",
+      "title": "Seven Letters",
+      "alt": "Seven Letters",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-spirals",
+      "title": "Spirals",
+      "alt": "Spirals",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-things",
+      "title": "Things",
+      "alt": "Things",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/handmade/handmade-wave",
+      "title": "Wave",
+      "alt": "Wave",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}

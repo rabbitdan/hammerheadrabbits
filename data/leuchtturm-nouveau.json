@@ -1,0 +1,171 @@
+{
+  "name": "Leuchtturm",
+  "slug": "leuchtturm",
+  "type": "sketchbook",
+  "id": 30,
+  "description": "Sometimes I draw things in books. Sometimes they are not things.",
+  "images": [
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-begin",
+      "title": "Begin",
+      "alt": "Begin",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-who",
+      "title": "Who",
+      "alt": "Who",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-pop",
+      "title": "Pop",
+      "alt": "Pop!",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-how",
+      "title": "How",
+      "alt": "How",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-bearsuit",
+      "title": "Bearsuit",
+      "alt": "Bearsuit",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-creature-utopia",
+      "title": "Utopia",
+      "alt": "Utopia",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-faces-colour",
+      "title": "Faces",
+      "alt": "Faces",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-faces",
+      "title": "Faces",
+      "alt": "faces",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-hibernation",
+      "title": "Hibernation",
+      "alt": "Hibernation",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-pair",
+      "title": "Pair",
+      "alt": "The same drawing copied in different styles on opposite pages",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-withlines",
+      "title": "Lines",
+      "alt": "Lines",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-resold",
+      "title": "Resold",
+      "alt": "An idea, separated from a fact then resold as the fact",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-finger-sign",
+      "title": "Fingers",
+      "alt": "Fingers and semiotics",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-together",
+      "title": "Together",
+      "alt": "Who are we when we are together?",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-hen-chaos",
+      "title": "Hen",
+      "alt": "Hen",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-horseback",
+      "title": "Horseback",
+      "alt": "A man on horseback catching a drop of rain",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-imitation",
+      "title": "Imitation",
+      "alt": "Imitation",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    },
+    {
+      "url": "sketchbook/leuchtturm/leuchtturm-thing-idea",
+      "title": "Thing | Idea",
+      "alt": "Thing | Idea",
+      "lg": "1500",
+      "med": "1126",
+      "sm": "750",
+      "tn": "376"
+    }
+  ]
+}
